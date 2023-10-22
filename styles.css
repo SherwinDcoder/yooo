@@ -48,7 +48,7 @@ a {
 }
 .app {
     position: relative;
-    background: #79c4e7;
+    background: #ac9f67;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -114,7 +114,7 @@ a {
     position: relative;
     width: 24px;
     height: 200px;
-    background: #7d9a9e;
+    background: #927f58;
     border-radius: 20px;
     overflow: visible;
     transform: translateY(100%);
@@ -142,7 +142,7 @@ a {
     width: 110px;
     height: 95px;
     border-radius: 50%;
-    background: #7d9a9e;
+    background: #927f58;
     transition: transform 0.3s ease;
 }
 .grabber--waiting .grabber__hand {
